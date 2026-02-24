@@ -58,7 +58,7 @@ Here are some of the real-world projects I've worked on:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-Shoaib-Amiri&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Shoaib-Amiri&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Shoaib-Amiri&layout=compact&theme=tokyonight" height="150" />
 </p>
 
