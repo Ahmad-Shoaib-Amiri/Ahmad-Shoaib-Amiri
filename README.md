@@ -66,7 +66,7 @@ Here are some of the real-world projects I've worked on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *Not avialble currently*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/ahmad-shoaib-amiri-a09190272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
 - 🌐 📱 Phone: +93748576000   
 - 📧 Email: ahmadshoaibamiri5@gmail.com
 
