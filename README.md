@@ -63,5 +63,5 @@ Here are some of the real-world projects I've worked on:
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+⭐ **Thanks for visiting my profile!**   
 Feel free to explore my repositories or reach out for collaboration.
