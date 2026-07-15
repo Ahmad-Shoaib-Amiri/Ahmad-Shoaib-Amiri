@@ -23,7 +23,7 @@ I enjoy solving real-world problems through clean code, modern frameworks, and t
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,nextjs,tailwind,mongodb,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,nextjs,tailwind,mongodb,mysql,git,github" />
 </p>
 
 ---
