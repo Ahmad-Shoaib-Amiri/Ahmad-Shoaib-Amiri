@@ -35,9 +35,6 @@ Here are some of the real-world projects I've worked on:
 * **🛒 Minitronic E-Commerce**
   A complete online shopping platform with product management, cart system, and secure checkout.
 
-* **💊 POS for Drugstores**
-  A point-of-sale system designed for pharmacies with inventory, billing, and reporting features.
-
 * **🏪 POS System**
   A business point-of-sale solution developed for efficient sales, inventory, and customer management.
 
